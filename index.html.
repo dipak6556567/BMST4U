@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aspirants Gurukul</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Aspirants Gurukul</h1>
+        <nav>
+            <ul>
+                <li><a href="pages/class11.html">Class 11</a></li>
+                <li><a href="pages/class12.html">Class 12</a></li>
+                <li><a href="pages/semester1.html">1st Semester</a></li>
+                <li><a href="pages/semester2.html">2nd Semester</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Welcome to Aspirants Gurukul</h2>
+        <p>Your one-stop platform for question papers and study materials.</p>
+    </main>
+    <footer>
+        <p>© 2025 Aspirants Gurukul. All rights reserved.</p>
+    </footer>
+</body>
+</html>
